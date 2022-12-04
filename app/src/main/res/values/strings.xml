@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sudoku</string>
+    <item name="fila" type="id" />
+    <item name="col" type="id" />
 </resources>
